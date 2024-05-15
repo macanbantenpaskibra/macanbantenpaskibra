@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg id="Rectangle28" width="64" height="32" viewBox="0 0 64 32" fill="none" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; max-height: 100%;">
+<rect x="1" y="1" width="62" height="30" rx="15" stroke="url(#paint0_linear_308_2)" stroke-width="2" stroke-dasharray="0,0,0,157.64047241210938"><animate attributeType="XML" attributeName="stroke-dasharray" repeatCount="1" dur="10s" values="0,0,0,157.64047241210938; 
+          0,78.82023620605469,78.82023620605469,0; 
+          157.64047241210938,0,0,0" keyTimes="0; 0.5; 1" fill="freeze"></animate></rect>
+<defs>
+<linearGradient id="paint0_linear_308_2" x1="0" y1="16" x2="64" y2="16" gradientUnits="userSpaceOnUse">
+<stop stop-color="#33FF00"></stop>
+<stop offset="1" stop-color="#BDFF00"></stop>
+</linearGradient>
+</defs>
+</svg>
