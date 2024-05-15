@@ -25,7 +25,7 @@ const NavTop = () => {
             </h1>
           </div>
           <div className="  py-4 flex text-center justify-center font-montserrat font-bold text-sm border-b-1 border-white w-full ">
-            <Swiper slidesPerView={3} spaceBetween={-60} className="mySwiper">
+            <Swiper slidesPerView={3} spaceBetween={-10} className="mySwiper">
               <SwiperSlide>
                 <Button
                   onClick={()=>{router.push('/Tahun22')}}
