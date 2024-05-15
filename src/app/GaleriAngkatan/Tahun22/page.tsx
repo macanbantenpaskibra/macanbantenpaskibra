@@ -1,6 +1,6 @@
-const Angkatan22 = () => {
+const Tahun22 = () => {
     return (
         <div>INI 22</div>
     )
 }
-export default Angkatan22
+export default Tahun22
